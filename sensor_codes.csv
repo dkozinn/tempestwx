@@ -1,5 +1,5 @@
-sensor_status,sensor_errors
-0,
+code,failure_desc
+0,None
 1,Lightning failed
 2,Lightning noise
 3,"Lightning failed,Lightning noise"
